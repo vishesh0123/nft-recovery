@@ -1,0 +1,17 @@
+{
+  "name": "nftsaver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "transfer": "node transferNfts.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.1"
+  }
+}
